@@ -1,5 +1,8 @@
 # OiMearMuseum
 
+*Code could not be added due to its size and connection*
+*Contact if needed for me to share*
+
 ![COM309_Final_ChoiMear](https://user-images.githubusercontent.com/110645615/211209002-2ada7321-a51f-4cb1-8934-b32747e1fa2b.jpg)
 
 ## Museum Design Goal
