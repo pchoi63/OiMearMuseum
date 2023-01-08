@@ -16,16 +16,22 @@ https://www.supersurvey.com/QQOHMFH46
 
 ## References
 ### Models
-"Apollo 11 Lunar Module" (https://skfb.ly/otyNC) by CMFDesign is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/). 
+"Apollo 11 Lunar Module" (https://skfb.ly/otyNC) by CMFDesign is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 "World War 2 USA Flag (Animation)" (https://skfb.ly/6DKOz) by Anthony Yanez is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
-Sources for environment information
+
+### Sources for environment information
 Stonehenge:
 https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/
+
 Himalayas:
 https://www.pbs.org/wnet/nature/the-himalayas-himalayas-facts/6341/
+
 Moon Landing:
 https://www.britannica.com/topic/Apollo-11
+
 Pyramids:
 https://www.nationalgeographic.com/history/article/giza-pyramids
+
 Mount Tambora:
 https://www.nesdis.noaa.gov/news/day-history-mount-tambora-explosively-erupts-1815
