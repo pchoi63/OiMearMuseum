@@ -1,5 +1,7 @@
 # OiMearMuseum
 
+![COM309_Final_ChoiMear](https://user-images.githubusercontent.com/110645615/211209002-2ada7321-a51f-4cb1-8934-b32747e1fa2b.jpg)
+
 ## Museum Design Goal
 In the age of technology, more people than ever find themselves getting information from online resources rather than paper versions of the same text. Wikipedia can be oddly enticing, as one can bounce around articles, absorbing more information with every click. Our goal was to take the increased entertainment of learning online to another level by actually putting users in the locations that they were learning about. We set up five locations with information and a base room for users to return to. Since we weren’t sure if our project would actually increase interest while learning, we put the same information in our windows from online text and gave a survey to a group of people that only used our VR environment, as well as a group of people that only read the online text. We wanted to get accurate results, so we designed the survey in a manner that would avoid bias from people that already were interested/uninterested in whatever they were learning about. Our project was made for the purpose of finding a more enticing way of educating people, and users seemed to have been far more interested in VR than reading text.
 
